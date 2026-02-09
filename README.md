@@ -1,8 +1,7 @@
-## Hi there 👋<h1>Hi👋, I'm Muhammadali</h1>
-🧑🏽‍💻A passionate Software Engineer from Uzbekistan
-
-👨🏻‍🎓Studied Computer Science at TATU University, Fergana
-
+## Hi there 👋<h1>Hi👋, I'm Islombek</h1>
+🧑🏽‍💻 Software Engineering student from Uzbekistan
+🚀 Frontend-focused developer (HTML, CSS, JS, TS)
+👨🏻‍🎓 TATU University, Fergana
 
 <h3 align="left">Languages and Tools:</h3>
 
