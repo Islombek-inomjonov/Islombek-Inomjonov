@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 <div>
-  <img src="https://github.com/Qoxxoraliyev/Inomjonov-Islombek/blob/output/github-snake-dark.svg" />
+  <img src="https://github.com/Inomjonov-Islombek/Inomjonov-Islombek/blob/output/github-snake-dark.svg" />
 </div>
+
+
 
 
 
