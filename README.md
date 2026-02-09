@@ -5,6 +5,10 @@
 </div>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Islombek-inomjonov/Islombek-inomjonov/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Islombek-inomjonov/Islombek-inomjonov/output/github-snake.svg">
+</picture>
 
 
 
